@@ -1,0 +1,5 @@
+{
+	"uri": "http://api.openweathermap.org/data/2.5/weather",
+	"key": "",
+	"icons_path": "http://openweathermap.org/img/w/"
+}
