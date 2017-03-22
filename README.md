@@ -10,6 +10,7 @@
 6. cd frontend && gulp production
 7. npm start
 
-Приложение доступно в браузере [http://localhost:3000/](http://localhost:3000/)
+Приложение доступно в браузере 
+[http://localhost:3000/](http://localhost:3000/)
 ```
 
